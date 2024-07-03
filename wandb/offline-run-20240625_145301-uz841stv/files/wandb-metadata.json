@@ -1,0 +1,102 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-06-25T05:53:01.485807",
+    "startedAt": "2024-06-25T05:53:01.410727",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/user/code/test/fine_tuning.py",
+    "codePathLocal": "fine_tuning.py",
+    "codePath": "fine_tuning.py",
+    "host": "DESKTOP-TC9URV7",
+    "username": "user",
+    "executable": "/home/user/anaconda3/envs/myenv/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3799.8269999999998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3799.827,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 204.66965866088867
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 30.932788848876953
+    }
+}
